@@ -18,4 +18,4 @@ image = Image.new([
   [0, 0, 0, 0]
 ])
 
-image.output_images
+image.output_image
